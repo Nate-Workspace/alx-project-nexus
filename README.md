@@ -28,7 +28,7 @@ It wasn’t just about writing code; it was about **thinking like a front-end en
 |-----------|------------------|
 | **PWA Offline Issues** | Learned to debug and properly configure service workers. |
 | **Switching Between Next.js Routers** | Built small test projects with both App Router and Pages Router to fully grasp their differences. |
-| **GraphQL Learning Curve** | Started small with queries, then gradually moved into mutations and subscriptions. |
+| **GraphQL Learning Curve** | Started small with queries. |
 | **Making Truly Responsive Layouts** | Adopted a mobile-first approach and constantly tested on multiple devices. |
 | **Complex API Integrations** | Used async/await with proper error handling and loading states. |
 | **Keeping Components Reusable** | Broke down UIs into smaller, purpose-driven components. |
